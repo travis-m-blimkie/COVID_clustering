@@ -1,5 +1,5 @@
 # COVID_clustering
-This folder contains all the data and code used in the manuscript entitled "Transcriptomic clustering of critically ill patients":
+This folder contains all the data and code used in the manuscript entitled "Transcriptomic clustering of critically ill COVID-19 patients":
 
 -COVID_clustering_final.R: R code.
 
