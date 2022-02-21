@@ -3,7 +3,7 @@ This folder contains all the data and code used in the manuscript entitled "Tran
 
 -File 1: R code.
 
--File 2: Transcriptomic data.
+-transcript_data.Rdata: Transcriptomic data.
 
 -File 3: Clinical data.
 
