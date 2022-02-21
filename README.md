@@ -15,6 +15,6 @@ This folder contains all the data and code used in the manuscript entitled __"Tr
 
 ## Contact: 
 
-Follow us in https://twitter.com/crit_lab
+Follow us: https://twitter.com/crit_lab
 
 Cecilia López-Martínez (clm@crit-lab.org), Guillermo M Albaiceta (gma@crit-lab.org), Laura Amado-Rodríguez (lar@crit-lab.org).
