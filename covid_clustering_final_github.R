@@ -2,7 +2,7 @@
 
 #### 0. Setings ####
 library(RColorBrewer)
-library(critcolors)
+library(critcolors) #Available at https://github.com/cecilomar6/critcolors
 
 cluster1<-"#486D87"
 cluster2<-"#FFB838"
