@@ -2,7 +2,7 @@
 
 #### 0. Setings ####
 library(RColorBrewer)
-library(critcolors) #Available at https://github.com/cecilomar6/critcolors
+library(critcolors) #To install: > devtools::install_github("cecilomar6/critcolors")
 
 cluster1<-"#486D87"
 cluster2<-"#FFB838"
@@ -694,7 +694,7 @@ quant<-c("age", "bmi","apache2", "FiO2_1",  "PaFi_1", "DAa_1",
          "Vt_1", "vt_ibw_1",  "vei_1", 
          "Pplat_1",   "PEEP_1", 
          "driving_1", 
-         "Crs_1", "cr_1", 
+         "Crs_1", "cr_1", "PCT_ing", 
          "il6_1", "il6_3", "ferritin_1", "ferritin_3",
          "leuc_1", "lymph_1",  "Ddimer_1", "Ddimer_3", "preICU", "vfd28")
 
