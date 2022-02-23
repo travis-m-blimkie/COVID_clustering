@@ -21,7 +21,7 @@ exp_colors<-colorRampPalette(rev(brewer.pal(n = 7, name = "RdYlBu")))(100)
 #### 1. Loading sample info and transcript data ####
 
 load("transcript_data.RData")
-samples<-read.csv("clinical_data_github.csv")
+samples<-read.csv("clinical_data.csv")
 
 library(AnnotationHub)
 ah<-AnnotationHub()
