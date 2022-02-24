@@ -3,9 +3,9 @@ This folder contains all the data and code used in the manuscript entitled __"Tr
 
 - "COVID_clustering_final.R": R code. This file uploads all the following data files, that must be in the same directory.
 
-- "transcript_data.Rdata": Transcriptomic data.
+- "transcript_data.Rdata": Transcriptomic data. FastQ files available at https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE197204.
 
-- "miRNA_counts.csv": miRNA raw counts. FastQ files can be found at https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE197258.
+- "miRNA_counts.csv": miRNA raw counts. FastQ files available at https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE197258.
 
 - "molecules_downnetwork.txt": Results from Ingenuity Pathway Analysys.
 
