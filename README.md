@@ -5,7 +5,7 @@ This folder contains all the data and code used in the manuscript entitled __"Tr
 
 - "transcript_data.Rdata": Transcriptomic data.
 
-- "miRNA_counts.csv": miRNA raw counts.
+- "miRNA_counts.csv": miRNA raw counts. FastQ files can be found at https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE197258.
 
 - "molecules_downnetwork.txt": Results from Ingenuity Pathway Analysys.
 
