@@ -11,7 +11,7 @@ This folder contains all the data and code used in the manuscript entitled __"Tr
 
 - "molecules_upnetwork.txt": Results from Ingenuity Pathway Analysys.
 
-- "clinical_data_github.csv": Anonymized clinical data.
+- "clinical_data.csv": Anonymized clinical data.
 
 ## Contact: 
 
