@@ -15,6 +15,8 @@ This folder contains all the data and code used in the manuscript entitled __"Tr
 
 - "clinical_data.csv": Anonymized clinical data.
 
+- "index_data_trt.csv": File containing cluster and treatment received by patients with a Day 4 transcriptome.
+
 ## Contact: 
 
 Follow us: https://twitter.com/crit_lab
