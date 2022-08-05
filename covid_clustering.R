@@ -886,6 +886,16 @@ summary(model.4)
 model.5<-coxph(covid.surv.icu~score+age+sex+intubated+il6_1, data=samples, id=id) 
 summary(model.5)
 
+#Using CRP as marker for clustering
+clust.glm.crp<-glm(clust2~CRP, data=samples[!is.na(samples$CRP),], family=binomial)
+probs.crp<-predict(clust.glm.crp, type="response")
+roc.obj.crp<-roc(samples$clust2[!is.na(samples$CRP)], probs.crp, ci=TRUE)
+roc.obj.crp
+
+model.crp<-coxph(covid.surv.icu~CRP+age+sex+intubated, data=samples, id=id, model=TRUE) 
+summary(model.crp)
+                                    
+                                    
 ##########################################################################################################
 ################################### Validation data from GSE157103 #######################################
 
