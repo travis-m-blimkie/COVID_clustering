@@ -1283,7 +1283,7 @@ plot_grid(plotlist=lista, align="hv", nrow=3)
 ################## cluster-specific response to steroids #########################
 
 load("transcript_data_trt.RData")
-samples.trt <- read.csv("index_data_trt.csv") # Esta tabla hay que limpiarla de variables que sobran
+samples.trt <- read.csv("index_data_trt.csv")
 
 ################
 ### For CTP1 ###
