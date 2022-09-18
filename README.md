@@ -1,5 +1,5 @@
 # COVID clustering
-This folder contains all the data and code used in the manuscript entitled __"Transcriptomic clustering of critically ill COVID-19 patients"__ (https://www.medrxiv.org/content/10.1101/2022.03.01.22271576v1):
+This folder contains all the data and code used in the manuscript entitled __"Transcriptomic clustering of critically ill COVID-19 patients", published in the Europeean Respiratory Journal (https://erj.ersjournals.com/content/early/2022/08/25/13993003.00592-2022). The preprint is available at __ (https://www.medrxiv.org/content/10.1101/2022.03.01.22271576v1):
 
 - "covid_clustering.R": R code. This file uploads all the following data files, that must be in the same directory.
 
